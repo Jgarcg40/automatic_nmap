@@ -6,3 +6,5 @@ If no scan type is specified it will do a deeper but slower scan.
 **Requirements**: have installed the python libraries sys, subprocess, re and os (with pip install <library>), 
 nmap and whatweb (sudo apt install nmap && sudo apt install whatweb).
 
+This script is intended for the automation of the initial recognition in CTFs like hackthebox.
+
